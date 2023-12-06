@@ -16,3 +16,4 @@ This project is built to teach the right way to make a frontend search. See tuto
 
 ## Developer
 [Njoku Samson Ebere](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
+
